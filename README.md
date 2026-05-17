@@ -10,7 +10,7 @@
 ## Setup 
 1. Download the Modrinth Client: https://modrinth.com/app
 2. Download the [Modrinth modpack file](https://github.com/leeann-s/dsp-minecraft/blob/main/DSP%20%26%20Friends%20Server.mrpack), it's also in the repository 
-3. Once Modrinth finishes downloading, open the `.mrpack` file by double-clicking it. It should automatically import into Modrint
+3. Once Modrinth finishes downloading, open the `.mrpack` file by double-clicking it. It should automatically import into Modrinth
 4. Log into your Minecraft Account, you should see your account in the top right afterward
 ![image](images/one.png)
 
